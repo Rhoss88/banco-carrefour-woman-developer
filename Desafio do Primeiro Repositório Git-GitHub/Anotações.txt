@@ -1,0 +1,13 @@
+Alguns comandos básicos sobre o GitBash
+
+git clone - Clonando um Repositório Existente.
+
+git add - Gravando Alterações.
+
+git status - Verificando o Status.
+
+git commit -m "Mensagem" - Se usa o commit depois de já ter feito o git add.
+
+git rm - Removendo Arquivos.
+
+git mv - Movendo Arquivos.

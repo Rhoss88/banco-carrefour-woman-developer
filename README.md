@@ -1,2 +1,2 @@
-# banco-carrefour-woman-developer
-Tudo sobre o Bootcamps
+# Banco Carrefour Woman Developer
+Repositório criado para anotações e desafios de projetos.
